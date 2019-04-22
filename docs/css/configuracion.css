@@ -1,0 +1,11 @@
+.nopadding{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.sipadding{
+    padding: 10px !important;
+}
+.container-default-height{
+    height: 600px !important;
+}
+
